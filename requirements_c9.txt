@@ -63,7 +63,7 @@ psycopg2==2.9.1
 ptyprocess==0.7.0
 pycparser==2.21
 Pygments==2.10.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==3.0.6
 pyrsistent==0.18.0
 python-dateutil==2.8.2
